@@ -176,7 +176,7 @@ trio-websocket==0.9.2
 twython==3.8.2
 typed-ast==1.5.0
 uritemplate==3.0.1
-urllib3==2.6.3
+urllib3==2.7.0
 utils==1.0.1
 vine==5.0.0
 virtualenv==20.36.1
